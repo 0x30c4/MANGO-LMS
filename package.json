@@ -20,7 +20,7 @@
     "laravel-mix": "^5.0.4",
     "laravel-mix-nunjucks": "^0.3.0",
     "laravel-mix-purgecss": "^6.0.0",
-    "resolve-url-loader": "^3.1.0",
+    "resolve-url-loader": "^5.0.0",
     "sass": "^1.26.9",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11",
